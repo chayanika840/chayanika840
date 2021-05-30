@@ -6,6 +6,4 @@ Learning and hustling every day to enhance my skills in the field of Artificial 
 
 🌎 Find me Elsewhere 🌎
 
-https://www.linkedin.com/in/chayanika7974b01b5/      
-https://www.codingdecoded.info/    
-https://arorachayanika1.medium.com/
+<a href="https://www.linkedin.com/in/chayanika7974b01b5/"><img src="https://img.shields.io/badge/-Chayanika%20Arora%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>      
