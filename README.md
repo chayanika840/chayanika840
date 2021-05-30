@@ -5,5 +5,12 @@ I am passionate and very keen about the in technologies including machine learni
 Learning and hustling every day to enhance my skills in the field of Artificial intelligence and machine learning. 
 
 🌎 Find me Elsewhere 🌎
-    
-<a href="https://linkedin.com/in/chayanika7974b01b5/"></a>
+
+#️⃣https://www.linkedin.com/in/chayanika7974b01b5/
+
+#️⃣https://www.codingdecoded.info/
+
+#️⃣https://arorachayanika1.medium.com/
+
+
+   
