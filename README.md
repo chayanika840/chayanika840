@@ -5,5 +5,5 @@ I am passionate and very keen about the in technologies including machine learni
 Learning and hustling every day to enhance my skills in the field of Artificial intelligence and machine learning. 
 
 🌎 Find me Elsewhere 🌎
-
-<a href="https://www.linkedin.com/in/chayanika7974b01b5/"><img src="https://img.shields.io/badge/-Chayanika%20Arora%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>      
+    
+<a href="https://linkedin.com/in/chayanika7974b01b5/"><img src="https://img.shields.io/badge/-Chayanika%20Arora%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
