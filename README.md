@@ -14,12 +14,16 @@ I am Chayanika Arora.
 
 <a href="https://www.linkedin.com/in/chayanika7974b01b5/">
   <img align="left" alt="Chayanika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+LinkedIn
+  
+  
+  
+ **languages and tools:**  
 
-#️⃣https://www.linkedin.com/in/chayanika7974b01b5/
-
-#️⃣https://www.codingdecoded.info/
-
-#️⃣https://arorachayanika1.medium.com/
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)
 
