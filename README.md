@@ -2,7 +2,7 @@ Hey🙋‍♀!                       <img src="https://i.pinimg.com/originals/cd
 
 I am Chayanika Arora.
 
-🚩I am currently a second year B.Tech Computer Science Engneering Undergraduate student with specialization in Artificial Intelligence and Machine Learning at Sharda University.
+🚩I am currently a third year B.Tech Computer Science Engneering Undergraduate student with specialization in Artificial Intelligence and Machine Learning at Sharda University.
 
 🚩I am passionate learner and keenly interested in the programming language Python 💻
 
