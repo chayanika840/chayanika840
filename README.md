@@ -18,4 +18,6 @@ I am Chayanika Arora.
 
 #️⃣https://arorachayanika1.medium.com/
 
+![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)
+
 ### Show some ❤️ by starring some of the repositories!
