@@ -8,7 +8,7 @@ I am Chayanika Arora.
 
 🚩I am passionate and very keen about the in technologies including machine learning, data science and artificial intelligence along with blogging, content creation and YouTubing. 
 
-🚩Learning and hustling every day to enhance my skills in the field of Artificial intelligence and machine learning. 
+🚩Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
 
 📫 How to reach me:
 
