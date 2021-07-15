@@ -1,4 +1,4 @@
-Hey🙋‍♀!                       <img src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="100px" alt="Hiii" /> 
+Hey🙋‍♀!                       <img src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="150px" alt="Hiii" /> 
 
 I am Chayanika Arora.
 
