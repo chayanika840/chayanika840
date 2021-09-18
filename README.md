@@ -1,4 +1,4 @@
-Hey🙋‍♀!                       <img src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="150px" alt="Hiii" /> 
+Hey there🙋‍♀!                       <img src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="150px" alt="Hiii" /> 
 
 I am Chayanika Arora.
 
@@ -9,6 +9,8 @@ I am Chayanika Arora.
 🚩I am passionate and very keen about the in technologies including machine learning, data science and artificial intelligence along with blogging, content creation and YouTubing. 
 
 🚩Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
+
+🚩Working on Data structures and Algorithms.
 
 📫 How to reach me:
 
