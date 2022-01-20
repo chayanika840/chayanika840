@@ -1,4 +1,4 @@
-Hey there🙋‍♀!                      <img align= "center" src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="200px" alt="Hiii" /> 
+Hey there🙋‍♀!                      <img align= "right" src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="300px" alt="Hiii" /> 
 
 I am Chayanika Arora.
 
