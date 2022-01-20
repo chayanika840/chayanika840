@@ -30,4 +30,13 @@ Languages and Tools:
 
 ![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)    
 
+<br>
+
+## 📣 How about a quote before you go?
+
+> "If you really look closely, most overnight successes took a long time."<p>- Steve Jobs
+
+<br>
+
+
 ### Show some ❤️ by starring some of the repositories!
