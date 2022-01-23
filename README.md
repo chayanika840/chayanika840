@@ -32,6 +32,8 @@ Languages and Tools:
 
 <br>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayanika840)](https://git.io/streak-stats)
+
 ## 📣 How about a quote before you go?
 
 > "If you really look closely, most overnight successes took a long time."<p>- Steve Jobs
