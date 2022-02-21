@@ -1,6 +1,6 @@
 Hey there🙋‍♀!                      <img align= "right" src="https://i.pinimg.com/originals/cd/e8/c1/cde8c1a1b135687226eeb2585939c72a.gif" width="300px" alt="Hiii" /> 
 
-I am Chayanika Arora.
+I am Chayanika Arora
 
 🚩I am currently a third year B.Tech Computer Science Engneering Undergraduate student with specialization in Artificial Intelligence and Machine Learning at Sharda University.
 
