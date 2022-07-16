@@ -28,9 +28,14 @@ Languages and Tools:
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
+
 ![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)    
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chayanika840)  
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayanika840&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chayanika840)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 How about a quote before you go?
 
