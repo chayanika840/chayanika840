@@ -30,12 +30,14 @@ Languages and Tools:
 
 
 ![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)    
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chayanika840)  
+<br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayanika840&theme=dark)](https://git.io/streak-stats)
 
+<br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayanika840)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
 ## 📣 How about a quote before you go?
 
