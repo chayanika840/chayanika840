@@ -36,6 +36,7 @@ Languages and Tools:
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chayanika840)](https://git.io/streak-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=chayanika840)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
