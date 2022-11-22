@@ -29,7 +29,7 @@ Languages and Tools:
 <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 
-![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show_icons=true)    
+![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show)    
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayanika840&theme=dark)](https://git.io/streak-stats)
