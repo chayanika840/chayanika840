@@ -13,7 +13,7 @@ I am Chayanika Arora!
 🚩Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
 
 
-📫 How to reach me:
+📫 Connect with me:
 
 <a href="https://www.linkedin.com/in/chayanika7974b01b5/">
   <img align="left" alt="Chayanika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> LinkedIn  </a>
