@@ -11,14 +11,6 @@ I am Chayanika Arora!
 ⭐I am passionate and very keen about the in technologies including machine learning, data science and artificial intelligence along with blogging, content creation and YouTubing. 
 
 ->Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
-
-
-📫 Connect with me:
-
-<a href="https://www.linkedin.com/in/chayanika7974b01b5/">
-  <img align="left" alt="Chayanika's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /> LinkedIn  </a>
-
-  
   
 Languages and Tools:  
 
