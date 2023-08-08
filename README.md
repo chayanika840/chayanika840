@@ -15,6 +15,11 @@ I am Chayanika Arora!
 ⭐ Does blogging, content creation and YouTubing. 
 
 
+<br>
+
+
+[![@chayanika840's Holopin board](https://holopin.me/@chayanika)](https://www.holopin.io/@chayanika#)
+
 ->Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
 
   
