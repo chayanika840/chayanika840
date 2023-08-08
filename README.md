@@ -2,15 +2,21 @@ Hey there🙋‍♀!                      <img align= "right" src="https://cdn-h
 
 I am Chayanika Arora!
 
-⭐I am currently a final year B.Tech Computer Science Engneering Undergraduate student with specialization in Artificial Intelligence and Machine Learning at Sharda University.
+⭐ Working as a Software Development Engineer SDE 1
 
-⭐Currently Working on my Data structures and Algorithms skills. 
+⭐ Completed B.Tech Computer Science Engneering with specialization in Artificial Intelligence and Machine Learning at Sharda University.
 
-⭐I am passionate learner and keenly interested in the programming language Python 💻
+⭐Currently Working on my Data structures and Algorithms skills.
 
-⭐I am passionate and very keen about the in technologies including machine learning, data science and artificial intelligence along with blogging, content creation and YouTubing. 
+⭐I am passionate learner, works on programming language Python 💻 , Artificial Intelligence and Machine Learning real life problems
+
+⭐I am passionate and very keen about the new emerging technologies 
+
+⭐ Does blogging, content creation and YouTubing. 
+
 
 ->Learning and hustling every day to enhance my skills in the field of Artificial Intelligence and Machine Learning. 
+
   
 Languages and Tools:  
 
