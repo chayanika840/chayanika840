@@ -34,7 +34,7 @@ Languages and Tools:
 
 
 
-![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show)    
+<!--![Chayanika's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayanika840&theme=dark&show)    -->
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chayanika840&theme=dark)](https://git.io/streak-stats)
